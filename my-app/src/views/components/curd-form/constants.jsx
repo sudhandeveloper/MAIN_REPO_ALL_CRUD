@@ -1,4 +1,4 @@
-// export const API_URL = "https://65f6713541d90c1c5e0ad28f.mockapi.io/api/users";
+export const API_URL = "https://65f6713541d90c1c5e0ad28f.mockapi.io/api/users";
 export const API_URL_TWO =
   // "https://65f6713541d90c1c5e0ad28f.mockapi.io/api/epmloyeedata";
   "http://localhost:8080/users";
